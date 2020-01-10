@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <math.h>
 
-// Submission for week 1 "Readability using Coleman-Liau Index"
+// Submission for week 2 "Readability using Coleman-Liau Index"
 // By Duncan Starkenburg aka EvilDunk
 
 
